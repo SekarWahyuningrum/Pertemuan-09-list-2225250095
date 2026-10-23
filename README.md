@@ -1,6 +1,9 @@
 **Nama:** Sekar Wahyuningrum
+
 **NIM:** 2225250095
+
 **Kelas:** 3E
+
 **Mata Kuliah:** Algoritma dan Pemrograman
 
 ## Tujuan
